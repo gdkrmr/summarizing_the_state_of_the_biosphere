@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/250058467.svg)](https://zenodo.org/badge/latestdoi/250058467)
+
 # Summarizing the state of the terrestrial biosphere in few dimensions
 
 This repository contains code to reproduce the Paper titled "Summarizing the state of the terrestrial biosphere in few dimensions".
